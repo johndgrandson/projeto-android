@@ -42,6 +42,7 @@ header > h1 {
     font-family: var(--fonte-destaque);
     font-weight: normal;
     padding-top: 30px;
+    padding-bottom: 10px;
     margin-bottom: 20px;
     font-size: 3em;
     text-shadow: 2px 2px 0px #00000077;
@@ -54,12 +55,14 @@ header > p {
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 15px;
     text-shadow: 2px 2px 0px #00000077;
 }
 
 nav {
     background-color: #193f22;
     padding: 10px;
+    padding-bottom: 15px;
     box-shadow: 0px 8px 9px #00000063;
 }
 
